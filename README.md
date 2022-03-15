@@ -1,7 +1,7 @@
 [![Stars](https://img.shields.io/github/stars/thevalleyy?color=white&style=plastic)](https://github.com/thevalleyy?tab=repositories)
 [![Discord](https://img.shields.io/discord/631518992342843392?color=%237289da&label=discord%20%5Bger%5D&style=plastic)](https://discord.gg/DkEnwxNqeX)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCAAHDguTiSsomnRcAqIb2dA?color=%20%23e52d27&label=subscribers&style=plastic)](https://www.youtube.com/channel/UCAAHDguTiSsomnRcAqIb2dA)
-[![Twitter](https://img.shields.io/twitter/follow/thevalleyy02?color=%231DA1F2&label=twitter&style=plastic)](https://twitter.com/thevalleyy02)
+[![Twitter](https://img.shields.io/twitter/follow/thevalleyy__?color=%231DA1F2&label=twitter&style=plastic)](https://twitter.com/thevalleyy__)
 ### Hi there 👋
 
 - 🔭 I’m currently working on some discord bots
