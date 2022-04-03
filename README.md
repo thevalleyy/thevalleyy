@@ -10,7 +10,7 @@
 - 😄 Pronouns: he/him
 - 📫 My discord tag: `thevalleyy#1337`
 - ⭐ I'm interested in science ^-^
-- ⚡ Fun fact: I like rgb things
+- ⚡ Fun fact: My avatar is Ceres, a dwarf planet
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=thevalleyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
