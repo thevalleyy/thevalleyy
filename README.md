@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on some discord bots
 - 🌱 I'm learning how to code minecraft plugins
 - 😄 Pronouns: he/him
-- 📫 My discord tag: `thevalleyy#1337`
+- 📫 My discord tag: `thevalleyy#2090`
 - ⭐ I'm interested in science ^-^
 - ⚡ Fun fact: My avatar is Ceres, a cute dwarf planet
 - ⏳ The last badge above is my overall time ~~wasted~~ spent in coding
