@@ -12,11 +12,7 @@
 - ⏳ The last badge above is my overall time ~~wasted~~ spent in coding
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thevalleyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=thevalleyy&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevalleyy&theme=tokyonight&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevalleyy&theme=tokyonight&layout=compact" width="49%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thevalleyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%"/>
+  
 </a>
