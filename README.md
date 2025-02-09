@@ -12,7 +12,7 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-profile-summary-cards.vercel.app">
   <div style="display: flex; justify-content: space-between;">
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevalleyy&theme=tokyonight&layout=compact" width="49% "/> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=thevalleyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%"/> -->
