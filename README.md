@@ -10,10 +10,13 @@
 - ⚡ Fun fact: My avatar is Ceres, a cute dwarf planet
 - ⏳ The last badge above is my overall time ~~wasted~~ spent in coding
 
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevalleyy&theme=tokyonight&layout=compact" width="49% "/>
-    <img src="https://github-readme-stats.vercel.app/api?username=thevalleyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%"/>
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevalleyy&theme=tokyonight&layout=compact" width="49% "/> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=thevalleyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="49%"/> -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevalleyy&theme=default">
   </div>
 </a>
 
